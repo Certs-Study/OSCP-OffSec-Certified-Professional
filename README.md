@@ -5,7 +5,9 @@ coverY: 16.89149560117302
 
 # OSCP Guide - Offensive Security Certified Professional
 
-![OSCP Guide](.gitbook/assets/PopDocs.net.png)
+##
+
+<figure><img src=".gitbook/assets/OSCP OffSec Certified Professional.png" alt="OSCP Offensive Security Certified Professional"><figcaption></figcaption></figure>
 
 ## Offensive Security Certified Professional
 
