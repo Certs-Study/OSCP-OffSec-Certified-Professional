@@ -10,10 +10,6 @@
 * [Exam Topics](company-info/exam-topics.md)
 * [OSCP Exam Guide](company-info/oscp-exam-guide.md)
 
-## The Formal Stuff
-
-* [The MindSet](the-formal-stuff/the-mindset.md)
-
 ## TryHackMe Rooms
 
 * [Overpass](tryhackme-rooms/overpass/README.md)
