@@ -1,4 +1,8 @@
 ---
+description: >-
+  Dive into our comprehensive OSCP Guide - Offensive Security Certified
+  Professional, to prepare for the certification. It details tips, resources,
+  and strategies to ace this prestigious cybersecurity e
 cover: .gitbook/assets/OSCP Guide 2022.png
 coverY: 16.89149560117302
 ---
