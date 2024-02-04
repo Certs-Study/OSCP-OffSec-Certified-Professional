@@ -35,4 +35,26 @@ After the 2nd failed exam - 4 weaks&#x20;
 
 Try Harder
 
-[https://help.offensive-security.com/hc/en-us/articles/4406830092564-What-is-the-Exam-Retake-Policy-](https://help.offensive-security.com/hc/en-us/articles/4406830092564-What-is-the-Exam-Retake-Policy-)
+{% embed url="https://help.offensive-security.com/hc/en-us/articles/4406830092564-What-is-the-Exam-Retake-Policy-" %}
+
+#### Exam Retake Policy
+
+* **Validity**: Retakes purchased are valid for 120 days post-purchase or post-cooling off period.
+
+#### Individual Course Package Cooling Off Periods
+
+* **1st failed exam**: 6 weeks
+* **2nd failed exam**: 8 weeks
+* **3rd failed exam**: 12 weeks
+
+#### Learn ONE Subscription Cooling Off Periods
+
+* **1st failed exam**: 4 weeks
+* **2nd failed exam**: 8 weeks
+* **3rd failed exam**: 12 weeks
+
+#### Learn UNLIMITED Subscription Cooling Off Periods
+
+* **1st failed exam**: 2 weeks
+* **2nd failed exam**: 4 weeks
+* Additional attempts: "Try Harder" directive

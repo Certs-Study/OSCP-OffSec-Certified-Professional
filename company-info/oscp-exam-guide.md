@@ -44,3 +44,22 @@ The official OSCP Exam Guide is available directly on the Offensive Security web
 {% embed url="https://www.offensive-security.com/offsec/what-to-expect-new-oscp-exam" %}
 
 {% embed url="https://help.offensive-security.com/hc/en-us/articles/4412170923924-OSCP-Exam-FAQ" %}
+
+### Resources and Study Materials
+
+Once you're familiar with the key information and structure of the OSCP exam, the next step is to gather the right study materials to prepare effectively. Here are some essential resources:
+
+* **OSCP Course Syllabus:** This will be your road map for learning the necessary skills for the exam. Ensure you cover each topic thoroughly.
+* **Practice Labs:** Gain hands-on experience with tools and techniques in a controlled environment that mimics the exam conditions.
+* **Community Forums:** Join discussions on platforms like the OSCP subreddit to gain insights, tips, and support from fellow participants.
+* **Books and Guides:** There are several books on penetration testing that can complement your studies. A popular choice is "Penetration Testing: A Hands-On Introduction to Hacking" by Georgia Weidman.
+
+### Tips for Success
+
+* **Time Management:** Practice managing your 24-hour exam window effectively. Make sure you allocate time for breaks and don’t forget to eat and rest.
+* **Offensive Security's Proving Grounds:** A great way to practice on machines similar to the ones you will encounter during the exam.
+* **Documentation:** Your ability to document findings is key. Practice writing clear, concise, and detailed reports.
+
+### Conclusion
+
+Passing the OSCP exam is a significant achievement for any aspiring security professional. With thorough preparation using the OSCP Exam Guide and the resources mentioned above, you'll be well on your way to earning this prestigious certification. Good luck!
