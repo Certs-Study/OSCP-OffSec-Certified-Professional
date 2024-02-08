@@ -44,3 +44,5 @@ Mitigating DNS vulnerabilities requires a comprehensive approach involving sever
 * **Access Control**: Restrict zone transfers to only authorized DNS servers to prevent unauthorized access to DNS records.
 * **Monitoring and Alerting**: Implement monitoring and alerting systems to detect unusual DNS requests or unexpected changes in DNS records, which could indicate a potential attack.
 
+### DNS Zone Transfer
+
