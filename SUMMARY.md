@@ -57,6 +57,11 @@
 
 * [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
+## Hacking Protocols
+
+* [DNS - 53](hacking-protocols/dns-53.md)
+* [Page](hacking-protocols/page.md)
+
 ## Tools Basics
 
 * [Swaks](tools-basics/swaks.md)

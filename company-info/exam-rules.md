@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/PopDocs.net.png
+cover: ../.gitbook/assets/OSCP OffSec Certified Professional.png
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 ## Our Vision
 
-{% hint style="undefined" %}
+{% hint style="info" %}
 **Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
 {% endhint %}
 
@@ -15,7 +15,7 @@ Our company vision is to **be the authoritative reference point for environmenta
 
 ## Our Values
 
-{% hint style="undefined" %}
+{% hint style="info" %}
 **Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
 {% endhint %}
 
